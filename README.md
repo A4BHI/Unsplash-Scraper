@@ -12,7 +12,7 @@ A desktop application built using **Java Swing** that scrapes and downloads high
 
 ## 🖼️ UI Preview
 
-![UI Screenshot](screenshots/Screenshot 2025-06-09 223323.png) <!-- Replace with your actual screenshot file name -->
+![UI Screenshot](screenshots/Screenshot%202025-06-09%20223323.png) <!-- Replace with your actual screenshot file name -->
 
 ## 📦 How It Works
 
